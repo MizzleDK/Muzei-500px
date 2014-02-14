@@ -1,0 +1,34 @@
+<resources>
+
+    <string-array name="categoryNames">
+        <item>@string/abstractCategory</item>
+        <item>@string/animalsCategory</item>
+        <item>@string/bwCategory</item>
+        <item>@string/celebritiesCategory</item>
+        <item>@string/cityCategory</item>
+        <item>@string/commercialCategory</item>
+        <item>@string/concertCategory</item>
+        <item>@string/familyCategory</item>
+        <item>@string/fashionCategory</item>
+        <item>@string/filmCategory</item>
+        <item>@string/fineartCategory</item>
+        <item>@string/foodCategory</item>
+        <item>@string/journalismCategory</item>
+        <item>@string/landscapeCategory</item>
+        <item>@string/macroCategory</item>
+        <item>@string/natureCategory</item>
+        <item>@string/nudeCategory</item>
+        <item>@string/peopleCategory</item>
+        <item>@string/performingartsCategory</item>
+        <item>@string/sportCategory</item>
+        <item>@string/stilllifeCategory</item>
+        <item>@string/streetCategory</item>
+        <item>@string/transportationCategory</item>
+        <item>@string/travelCategory</item>
+        <item>@string/underwaterCategory</item>
+        <item>@string/urbanCategory</item>
+        <item>@string/weddingCategory</item>
+        <item>@string/uncategorizedCategory</item>
+    </string-array>
+
+</resources>

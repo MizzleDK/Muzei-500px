@@ -1,0 +1,75 @@
+<!--
+  Copyright 2014 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">500px (Muzei Source)</string>
+    <string name="source_name">500px</string>
+    <string name="source_description">Beautiful photos from 500px</string>
+    <string name="feature">Feature</string>
+    <string name="dataSources">Data Sources</string>
+    <string name="category">Category</string>
+    <string name="other">Other Settings</string>
+    <string name="refreshInterval">Refresh interval</string>
+    <string name="updateOnWifiOnly">Update on Wi-Fi only</string>
+    <string name="hideAdultContent">Hide adult content</string>
+    <string name="categories">Categories</string>
+    <string name="edit">Edit</string>
+    <string name="categorySettings">Category Settings</string>
+    <string name="excludedCategories">Excluded categories</string>
+    <string name="everyHour">Every hour</string>
+    <string name="everyThreeHours">Every 3 hours</string>
+    <string name="everySixHours">Every 6 hours</string>
+    <string name="everyNineHours">Every 9 hours</string>
+    <string name="everyTwelveHours">Every 12 hours</string>
+    <string name="everyDay">Every day</string>
+    
+    <!-- Data sources -->
+    <string name="popular">Popular</string>
+    <string name="fresh">Fresh</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="editors">Editors\'</string>
+    
+    <!-- Categories -->
+    <string name="allCategories">All categories</string>
+    <string name="abstractCategory">Abstract</string>
+    <string name="animalsCategory">Animals</string>
+    <string name="bwCategory">Black and White</string>
+    <string name="celebritiesCategory">Celebrities</string>
+    <string name="cityCategory">City &amp; Architecture</string>
+    <string name="commercialCategory">Commercial</string>
+    <string name="concertCategory">Concert</string>
+    <string name="familyCategory">Family</string>
+    <string name="fashionCategory">Fashion</string>
+    <string name="filmCategory">Film</string>
+    <string name="fineartCategory">Fine Art</string>
+    <string name="foodCategory">Food</string>
+    <string name="journalismCategory">Journalism</string>
+    <string name="landscapeCategory">Landscapes</string>
+    <string name="macroCategory">Macro</string>
+    <string name="natureCategory">Nature</string>
+    <string name="nudeCategory">Nude</string>
+    <string name="peopleCategory">People</string>
+    <string name="performingartsCategory">Performing Arts</string>
+    <string name="sportCategory">Sport</string>
+    <string name="stilllifeCategory">Still Life</string>
+    <string name="streetCategory">Street</string>
+    <string name="transportationCategory">Transportation</string>
+    <string name="travelCategory">Travel</string>
+    <string name="underwaterCategory">Underwater</string>
+    <string name="urbanCategory">Urban Exploration</string>
+    <string name="weddingCategory">Wedding</string>
+    <string name="uncategorizedCategory">Uncategorized</string>
+</resources>
